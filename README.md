@@ -101,3 +101,17 @@
 - [inurl:/security ext:txt "contact"](https://www.google.com/search?q=inurl%3A%2Fsecurity+ext%3Atxt+%22contact%22&oq=inurl%3A%2Fsecurity+ext%3Atxt+%22contact%22&aqs=chrome..69i57j69i58&sourceid=chrome&ie=UTF-8)
 - ["Submission Form powered by Bugcrowd" -bugcrowd.com](https://www.google.com/search?q=%22Submission+Form+powered+by+Bugcrowd%22+-bugcrowd.com&oq=%22Submission+Form+powered+by+Bugcrowd%22+-bugcrowd.com&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8)
 - ["If you believe you've found a security vulnerability"](https://www.google.com/search?q=%22If+you+believe+you%27ve+found+a+security+vulnerability%22&oq=%22If+you+believe+you%27ve+found+a+security+vulnerability%22&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8)
+
+responsible disclosure reward r=h:UK
+site:*.*.nl intext:security report reward
+inurl:responsible disclosure reward
+inurl:responsible disclosure bounty
+inurl:responsible disclosure swag
+site:*.*.nl intext:responsible disclosure reward
+responsible disclosure reward r=h:eu
+site:*.*.* inurl:bug inurl:bounty
+site:help.*.* inurl:bounty 
+site:support.*.* intext:security report reward
+intext:security report monetary inurl:security 
+intext:security report reward inurl:report
+site:security.*.* inurl:bounty
